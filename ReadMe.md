@@ -1,4 +1,4 @@
-A simple inveentry Management api using Node.js Express.js And MongoDB
+A simple inventry Management api using Node.js Express.js And MongoDB
 
 
 
