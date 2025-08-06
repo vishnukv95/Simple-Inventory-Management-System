@@ -27,7 +27,7 @@ Simple Inventry Management System/
 ├── server.js # Main entry point
 └── README.md # You're here
 
-The sever will Run at : http://localhost:300
+The sever will Run at : http://localhost:3000
 
 # Api Endpoints
 
